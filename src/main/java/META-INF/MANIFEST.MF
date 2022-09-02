@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.epam.rd.autotasks.Suffixing
+Class-Path: commons-io-2.8.0.jar
+
